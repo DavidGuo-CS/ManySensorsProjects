@@ -6,8 +6,8 @@ dht DHT;
 #include <Console.h>
 #include <Process.h>
 //define xively connect info
-#define APIKEY        "O7TXrtI3ABnIb7JxEpTVrVxmveei1TCiKiecBpMopHjkjDxT"   // replace your xively api key here
-#define FEEDID        "486307192"                   // replace your xively feed ID
+#define APIKEY        "********"   // replace your xively api key here
+#define FEEDID        "********"                   // replace your xively feed ID
 
 #define DHT11_PIN 5
 
