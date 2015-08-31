@@ -1,3 +1,0 @@
-#!/bin/ash
-cat /var/temperature |  cut -d. -f1 > /tmp/temp1
-cat /var/temperature |  cut -d. -f2 > /tmp/temp2

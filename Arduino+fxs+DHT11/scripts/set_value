@@ -1,4 +1,0 @@
-#!/bin/sh
-   
-  echo $1 > /var/temperature    
-  echo $2 > /var/humidity

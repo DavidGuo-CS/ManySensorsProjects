@@ -1,3 +1,0 @@
-#!/bin/ash
-cat /var/humidity |  cut -d. -f1 > /tmp/hum1
-cat /var/humidity |  cut -d. -f2 > /tmp/hum2

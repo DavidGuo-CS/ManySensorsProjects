@@ -1,7 +1,0 @@
-Upload the arduino_fxs to Arduino board
-
-Put the gsm_file to /usr/lib/asterisk/sounds/
-
-Put the scripts to /usr/bin/
-
-Put the extension.conf to /etc/asterusk/
