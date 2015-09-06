@@ -1,0 +1,5 @@
+1. put the GSM file to /usr/lib/asterisk/sounds/
+
+2. put the scripts to  /usr/bin/
+
+3. put the extension.conf to /etc/asterisk/
